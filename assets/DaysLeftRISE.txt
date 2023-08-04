@@ -1,0 +1,14 @@
+ PUBLIC "-//w3c//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+<html>
+<head>
+<title>Days Left Wiki</title>
+</head>
+
+<body bgcolor="#23272a">
+<img src=
+<hr />
+<h1 aling="center">Days Left: RISE!</h1>
+<h2 aling="center">The Rise of Jeff Datson...</h2>
+<hr />
+<p>

@@ -1,0 +1,14 @@
+    PUBLIC "-//w3c//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml-transitional.dtd">
+<html>
+<head>
+<title>Days Left Wiki</title>
+</head>
+
+<body bgcolor="#23272a">
+<img src=
+<hr />
+<h1 aling="center">Days Left Official</h1>
+<h2 aling="center">Backstory</h2>
+<hr />
+<p>Days Left is a story around the rise of the Legendary Super Saiyan, Jeff Datson. Jeff is on a quest to defeat his twin brother Mark, and put an end to the corrupt Hagerman Industries. Jeff is accompanied by his brother Bill Datson, His Friend Pete, a crazy anime loving scrapyard owner named Earl, and an unknown man who goes by No Name.
